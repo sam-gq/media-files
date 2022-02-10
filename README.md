@@ -1,2 +1,2 @@
 # images-archive
-Contains images for embedding web pages.
+Contains images & videos, for embedding web pages.
